@@ -570,7 +570,7 @@ export default function Landing() {
             Get Started
           </Btn>
           <Btn
-            href="https://github.com/hoangsonww/Meadows-Social-Media"
+            href="https://github.com/pratikagre/-Meadows-Social-Media"
             outline
             className="border-white/60 text-white"
           >
@@ -591,7 +591,7 @@ export default function Landing() {
               License
             </Link>
             <Link
-              href="https://github.com/hoangsonww/Meadows-Social-Media"
+              href="https://github.com/pratikagre/-Meadows-Social-Media"
               className="flex items-center gap-1 hover:text-white transition"
               target="_blank"
               rel="noopener noreferrer"
